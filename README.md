@@ -11,19 +11,19 @@ Asegúrate de tener Node.js instalado en tu máquina.
 Clonar y Ejecutar
  Clona el repositorio:
    
-  git clone 
+    git clone 
 
 Navega al directorio del proyecto:
 
-   cd MiProyectoReact
+    cd MiProyectoReact
 
  Instala las dependencias:
  
-   npm install
+    npm install
 
  Inicia la aplicación:
  
-   npm start
+    npm start
 
  Abre tu navegador y ve a http://localhost:3000/ para ver la aplicación en funcionamiento.
 
